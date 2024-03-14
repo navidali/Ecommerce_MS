@@ -1,0 +1,9 @@
+{
+  "dev": {
+    "driver": "pg",
+    "user": "transaction_service",
+    "password": "transaction_service#2023",
+    "host": "",
+    "database": "transaction_service"
+  }
+}
